@@ -10,8 +10,8 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
 module.exports = { session: process.env.SESSION_ID || 'ezra',
     PREFIXE: process.env.PREFIX || "+",
     GITHUB : process.env.GITHUB|| 'https://github.com/enbbrand84/ENB-XMD',
-    OWNER_NAME : process.env.OWNER_NAME || "UTYATYA GRAYSON",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || "255793123171, 255615914136",  
+    OWNER_NAME : process.env.OWNER_NAME || "Martin",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || "4915562378343, 4915563151347",  
               
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
