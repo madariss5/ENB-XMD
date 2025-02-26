@@ -10,7 +10,7 @@
 
 ## 🚀 **What is ENB XMD?**
 ENB XMD is a feature-packed, intelligent WhatsApp bot designed for automation, media downloads, AI chat, and more.  
-✨ **Made by Utyatya Grayson** ✨  
+✨ **Made by Utyatya Grayson Popular Known as ENB TECH** ✨  
 
 Get started with one click and unlock next-level automation!  
 
@@ -94,4 +94,5 @@ ENB XMD > Help
 - !sticker ➝ Convert image to sticker
 - !play   ➝ Download music from YouTube
 - !search ➝ Google Search results
+...
 ...
